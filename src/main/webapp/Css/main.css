@@ -1,0 +1,102 @@
+.crwd-head-main{
+	background-image: url("../images/dashboard.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-admn-log{
+	background-image: url("../images/main1.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-vrfr-log{
+	background-image: url("../images/hsptl.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-hsptl-log{
+	background-image: url("../images/hospital1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-donor-log{
+	background-image: url("../images/donor1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-seeker-log{
+	background-image: url("../images/seeker.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-admn-head{
+	background-image: url("../images/admim.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-location{
+	background-image: url("../images/location.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-verifier{
+	background-image: url("../images/addVerifier.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-acc{
+	background-image: url("../images/account.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-hsptl{
+	background-image: url("../images/homehsptl.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-verifierHome{
+	background-image: url("../images/addVerifier.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-seeker{
+	background-image: url("../images/donor.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-donorHead{
+	background-image: url("../images/newdonor.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-seekerreg{
+	background-image: url("../images/seeker1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-donorreg{
+	background-image: url("../images/1.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.crwd-add-acc1{
+	background-image: url("../images/account.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
